@@ -29,3 +29,12 @@ Loadout Saver is almost like a Kit Plugin except It copys the players loadout an
 
 > **See any bugs/issues arising?**
 Feel free to report them on the [Issues tab](https://github.com/gPrac-gg/LoadoutSaver/issues) or DM me on Discord (gPrac#6871). I'll respond and fix any issues ASAP.
+
+## Future Plans
+
+- [ ] Add a Confirm Save and Delete Menu
+- [ ] Make commands easier to navigate (/loadout help)
+- [ ] 1.8-1.19 Support (Mainly works on 1.8)
+- [ ] Code Cleanup
+- [ ] Announce updates
+- [ ] Possibly add EssentialsX Support (eg. /kit essential would go in the layout the player saved it as)
