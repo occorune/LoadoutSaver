@@ -1,0 +1,5 @@
+me\data\loadoutsaver\commands\LoadoutCommand.class
+me\data\loadoutsaver\listener\CustomLoadout.class
+me\data\loadoutsaver\util\LoadoutHandler.class
+me\data\loadoutsaver\LSMain.class
+me\data\loadoutsaver\util\GUIs.class

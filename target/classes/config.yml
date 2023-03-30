@@ -1,0 +1,23 @@
+# Thank you for using LoadoutSaver, If you'd like to modify it. It'll be on My GitHub.
+# https://github.com/gPrac-gg/LoadoutSaver
+
+Settings:
+  FileSuffix: 'LO' # Do not include the number at the end. Example https://i.imgur.com/GpOOBDw.png
+  GUIName: 'Customize Loadout' # Do not include the number at the end. Example https://i.imgur.com/GpOOBDw.png
+  Frame:
+    Material: STAINED_GLASS_PANE
+    Data: 7
+  FrameName: ' '
+  Save:
+    Material: EMERALD
+  Load:
+    Material: CHEST
+  Delete:
+    Material: FLINT_AND_STEEL
+
+Messages:
+  Prefix: '&8[&bLS&7]'
+  SaveLoadout: '&aYour Loadout has been saved.'
+  LoadLoadout: '&aYour Loadout has been loaded.'
+  DeleteLoadout: '&aLoadout deleted.'
+  NoLoadout: '&cYou do not have a loadout saved.'

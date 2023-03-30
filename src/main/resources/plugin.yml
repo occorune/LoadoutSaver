@@ -1,0 +1,19 @@
+name: LoadoutSaver
+version: '${project.version}'
+main: me.data.loadoutsaver.LSMain
+api-version: 1.19
+authors: [ gPrac ]
+description: Save your Kit Layout/Loadout
+commands:
+  Loadout:
+    description: You can customize your kit loadout/inventory layout.
+    usage: /<command>
+    permission: LS.all
+    permission-message: You do not have permission to use loadouts.
+    aliases:
+      - layout
+      - customloadout
+      - customlayout
+      - kitloadout
+      - kitlayout
+      - customkit
